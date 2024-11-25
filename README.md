@@ -1,7 +1,11 @@
-## Hi there 👋
+### Olá! Bem vindo ao meu perfil!
 
-<!--
-**Satiro07/Satiro07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+Meu nome é José Satiro. Estou sempre em busca de novos conhecimentos. Atualmente, estou focado em aprimorar minhas habilidades em Python e desenvolver projetos interessantes.
+
+### Interesses
+- Desenvolvimento Web
+- Automação
 
 Here are some ideas to get you started:
 
