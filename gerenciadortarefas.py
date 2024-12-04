@@ -16,9 +16,15 @@ def gerenciador_de_tarefas():
         escolha = input('Escolha: ')
         print('=' * 45)
         if escolha == '1':
-            tarefa_add = input('Digite a tarefa: ')
-            tarefas.append(tarefa_add)
-            print('Tarefa adicionada!')
+            print('O limite máximo de tarefas que você pode adicionar é 5!')
+            quantidade = int(input('Quantas tarefas você irá adicionar? '))
+            if quantidade > 5:
+                print('O limite é 5!')
+            else:
+                for quant in range(quantidade):
+                    tarefa_add = input('Digite as tarefas: ')
+                    tarefas.append(tarefa_add)
+                print('Tarefas adicionadas!')
             print('=' * 45)
         elif escolha == '2':
             if tarefas:
@@ -34,14 +40,22 @@ def gerenciador_de_tarefas():
                 print('Suas tarefas: ')
                 for indice, tarefa in enumerate(tarefas, 1):
                     print(indice, tarefa)
-                    
-                remover = input('Remover tarefa: ')
-                if remover in tarefas:
-                    tarefas.remove(remover)
-                    print(f'Tarefa {remover} removida!')
-                    print('=' * 45)
+                quant_remove = int(input('Quantas tarefas deseja remover? '))
+                quant = len(tarefas)
+                if quant_remove > quant:
+                    print('Quantidade maior de tarefas do que a que esta armazenada!')
+                elif quant_remove != 0 and quant_remove <= quant:
+                    remover = input('Remover tarefa: ')
+                    if remover in tarefas:
+                        tarefas.remove(remover)
+                        print(f'Tarefa {remover} removida!')
+                        print('=' * 45)
+                    else:
+                        print(f'A tarefa "{remover}" não foi encontrada!')
+                elif quant_remove == 0:
+                    print('Nenhuma tarefa removida.')
                 else:
-                    print(f'A tarefa "{remover}" não foi encontrada!')
+                    print('Erro!')
                     
             else:
                 print('Nenhuma tarefa para remover.')
