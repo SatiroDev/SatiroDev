@@ -58,3 +58,5 @@ Me chamo José Satiro de Lima, tenho 16 anos e sou natural do Ceará. Estou curs
 </p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Satiro07&theme=dark&hide_border=false)<br/>
+
+![](https://github-profile-trophy.vercel.app/?username=Satiro07&theme=radical&columm=3)
