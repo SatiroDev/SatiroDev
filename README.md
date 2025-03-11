@@ -41,15 +41,15 @@ Me chamo José Satiro de Lima, tenho 16 anos e sou natural do Ceará. Estou curs
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="200" width="495"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Satiro07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&bg_color=000000&title_color=6f00ff&text_color=ffffff&icon_color=6f00ff" 
   />
 
   <img 
       align="left" 
-      alt="GitHub Stats" 
-      height="200" 
+      alt="Tecnologias" 
+      height="200" width="495"
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satiro07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=000000&title_color=6f00ff&text_color=ffffff"
   />
@@ -57,5 +57,9 @@ Me chamo José Satiro de Lima, tenho 16 anos e sou natural do Ceará. Estou curs
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Satiro07&theme=black-ice&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=6f00ff&currStreakLabel=6f00ff)
 
-![](https://github-profile-trophy.vercel.app/?username=Satiro07&theme=algolia&column=3&no-bg=true&title_color=6f00ff)
+### 🏆 Troféus
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Satiro07&theme=algolia&no-bg=true&title_color=6f00ff&margin-w=15&margin-h=15&row=1&column=6" />
+</p>
+
 
