@@ -41,7 +41,7 @@ Me chamo José Satiro de Lima, tenho 16 anos e sou natural do Ceará. Estou curs
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" width="495"
+    height="200"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Satiro07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&bg_color=000000&title_color=6f00ff&text_color=ffffff&icon_color=6f00ff" 
   />
@@ -49,7 +49,6 @@ Me chamo José Satiro de Lima, tenho 16 anos e sou natural do Ceará. Estou curs
   <img 
       align="left" 
       alt="Tecnologias" 
-      height="200" width="495"
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satiro07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=000000&title_color=6f00ff&text_color=ffffff"
   />
@@ -61,5 +60,6 @@ Me chamo José Satiro de Lima, tenho 16 anos e sou natural do Ceará. Estou curs
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Satiro07&theme=algolia&no-bg=true&title_color=6f00ff&margin-w=15&margin-h=15&row=1&column=6" />
 </p>
+
 
 
