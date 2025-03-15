@@ -51,9 +51,8 @@ Me chamo José Satiro de Lima, tenho 16 anos e sou natural do Ceará. Estou curs
       height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satiro07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=000000&title_color=6f00ff&text_color=ffffff"
   />
+
 </p>
-
-
 <p align="center">
   <img 
     alt="GitHub Streak" 
