@@ -36,6 +36,8 @@
         height="200" 
         src="https://github-readme-stats.vercel.app/api?username=Satiro07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&bg_color=000000&title_color=6f00ff&text_color=ffffff&icon_color=6f00ff&border_radius=10" 
     />
+</p>
+
 <p align="center">
     <img 
         alt="Linguagens"
