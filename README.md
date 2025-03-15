@@ -36,13 +36,11 @@
         height="200" 
         src="https://github-readme-stats.vercel.app/api?username=Satiro07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&bg_color=000000&title_color=6f00ff&text_color=ffffff&icon_color=6f00ff&border_radius=10" 
     />
-</p>
-
 <p align="center">
     <img 
-        alt="Linguagens Mais Usadas" 
+        alt="Linguagens"
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satiro07&theme=tokyonight&layout=compact&custom_title=📌 Tecnologias&langs_count=9&bg_color=000000&title_color=6f00ff&text_color=ffffff&border_radius=10"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satiro07&theme=tokyonight&layout=compact&langs_count=9&bg_color=000000&title_color=6f00ff&text_color=ffffff&border_radius=10&custom_title=Linguagens"
     />
 </p>
 
