@@ -40,9 +40,9 @@
 
 <p align="center">
     <img 
-        alt="Tecnologias" 
+        alt="Linguagens Mais Usadas" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satiro07&theme=tokyonight&layout=compact&custom_title=📌 Tecnologias&langs_count=9&bg_color=000000&title_color=6f00ff&text_color=ffffff&border_radius=10"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satiro07&theme=tokyonight&layout=compact&custom_title=📌 Linguagens Mais Usadas&langs_count=9&bg_color=000000&title_color=6f00ff&text_color=ffffff&border_radius=10"
     />
 </p>
 
@@ -58,5 +58,5 @@
 
 <h2 align="center" style="color: #6f00ff;">🏆 Troféus</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Satiro07&theme=radical&column=3&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Satiro07&theme=radical&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" />
 </p>
