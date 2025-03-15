@@ -1,42 +1,40 @@
-<h1 align="center">👨‍💻 José Satiro</h1>
+<h1 align="center" style="color: #6f00ff;">👨‍💻 José Satiro</h1>
 
-<p align="center">
-    Me chamo José Satiro de Lima, tenho 16 anos e sou natural do Ceará. Estou cursando o ensino médio no Instituto Federal de Maranguape, com o curso técnico em informática.
-</p>
+<p align="center" style="font-size: 18px;">Me chamo <strong>José Satiro de Lima</strong>, tenho 16 anos e sou natural do Ceará. Estou cursando o ensino médio no <strong>Instituto Federal de Maranguape</strong>, com o curso técnico em informática.</p>
 
 <p align="center">
     <a href="https://github.com/Satiro07?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://img.shields.io/github/stars/Satiro07?color=6f00ff&style=for-the-badge&label=Estrelas&logo=github"
+            src="https://img.shields.io/github/stars/Satiro07?color=6f00ff&style=for-the-badge&label=⭐ Estrelas&logo=github"
         />
     </a>
     <a href="https://github.com/Satiro07?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://img.shields.io/github/followers/Satiro07?color=6f00ff&style=for-the-badge&label=Seguidores&logo=github"
+            src="https://img.shields.io/github/followers/Satiro07?color=6f00ff&style=for-the-badge&label=👥 Seguidores&logo=github"
         />
     </a>
 </p>
 
 ---
 
-<h2>🖥️ Linguagens</h2>
-<p align="left">
-    <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<h2 align="center" style="color: #6f00ff;">🖥️ Linguagens</h2>
+<p align="center">
+    <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
 
 ---
 
-<h2 align="center">📊 Estatísticas</h2>
+<h2 align="center" style="color: #6f00ff;">📊 Estatísticas</h2>
 
 <p align="center">
     <img 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=Satiro07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&bg_color=000000&title_color=6f00ff&text_color=ffffff&icon_color=6f00ff" 
+        src="https://github-readme-stats.vercel.app/api?username=Satiro07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&bg_color=000000&title_color=6f00ff&text_color=ffffff&icon_color=6f00ff&border_radius=10" 
     />
 </p>
 
@@ -44,7 +42,7 @@
     <img 
         alt="Tecnologias" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satiro07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=000000&title_color=6f00ff&text_color=ffffff"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satiro07&theme=tokyonight&layout=compact&custom_title=📌 Tecnologias&langs_count=9&bg_color=000000&title_color=6f00ff&text_color=ffffff&border_radius=10"
     />
 </p>
 
@@ -52,16 +50,13 @@
     <img 
         alt="GitHub Streak" 
         height="200" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Satiro07&theme=black-ice&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=6f00ff&currStreakLabel=6f00ff" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Satiro07&theme=black-ice&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=6f00ff&currStreakLabel=6f00ff&border_radius=10" 
     />
 </p>
 
 ---
 
-<h2 align="center">🏆 Troféus</h2>
+<h2 align="center" style="color: #6f00ff;">🏆 Troféus</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Satiro07&theme=radical&column=3" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Satiro07&theme=radical&column=3&margin-w=15&margin-h=15" />
 </p>
-
-
-
