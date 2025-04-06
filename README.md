@@ -29,8 +29,9 @@
 ---
 
 ### 📚 Bibliotecas que uso ou estou aprendendo
+
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-em%20aprendizado-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" title="NumPy - em aprendizado"/>
 </p>
 
 ---
