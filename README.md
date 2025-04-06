@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #6f00ff;">👨‍💻 José Satiro</h1>
 
-<p align="center" style="font-size: 18px;">Me chamo <strong>José Satiro de Lima</strong>, tenho 16 anos e sou natural do Ceará. Estou cursando o ensino médio no <strong>Instituto Federal de Maranguape</strong>, com o curso técnico em informática.</p>
+<p align="center" style="font-size: 18px;">Me chamo <strong>José Satiro de Lima</strong>, tenho 17 anos e sou natural do Ceará. Estou cursando o ensino médio no <strong>Instituto Federal de Maranguape</strong>, com o curso técnico em informática.</p>
 
 <p align="center">
     <a href="https://github.com/Satiro07?tab=repositories&sort=stargazers">
@@ -25,6 +25,13 @@
 <p align="center">
     <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
+
+---
+
+### 📚 Bibliotecas que uso ou estou aprendendo
+
+- **NumPy** (aprendizado)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
 
 ---
 
