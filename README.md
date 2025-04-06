@@ -30,7 +30,7 @@
 
 ### 📚 Bibliotecas que uso ou estou aprendendo
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-em%20aprendizado-303030?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-em%20aprendizado-6f00ff?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ---
