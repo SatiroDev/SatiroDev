@@ -28,10 +28,12 @@
 
 ---
 
-### 📚 Bibliotecas que uso ou estou aprendendo
+<h2 align="center" style="color: #6f00ff;">📚 Bibliotecas que uso ou estou aprendendo</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-em%20aprendizado-6f00ff?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-6f00ff?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
+
 
 ---
 
