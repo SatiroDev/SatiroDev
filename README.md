@@ -4,7 +4,10 @@
 
 <h1 align="center" style="color: #6f00ff;">👨‍💻 José Satiro</h1>
 
-<p align="center" style="font-size: 18px;">Me chamo <strong>José Satiro de Lima</strong>, tenho 17 anos e sou natural do Ceará. Estou cursando o ensino médio no <strong>Instituto Federal de Maranguape</strong>, com o curso técnico em informática.</p>
+<p align="center">
+  Olá, meu nome é <strong>José Satiro de Lima</strong>, tenho 17 anos e sou natural do Ceará. Atualmente, estou cursando o ensino médio no <strong>Instituto Federal de Maranguape</strong>, onde faço o curso técnico em informática.
+</p>
+
 
 <p align="center">
     <a href="https://github.com/Satiro07?tab=repositories&sort=stargazers">
