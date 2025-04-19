@@ -10,21 +10,22 @@
 
 
 <p align="center">
-    <a href="https://github.com/Satiro07?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://img.shields.io/github/stars/Satiro07?color=6f00ff&style=for-the-badge&label=⭐ Estrelas&logo=github"
-        />
-    </a>
-    <a href="https://github.com/Satiro07?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://img.shields.io/github/followers/Satiro07?color=6f00ff&style=for-the-badge&label=👥 Seguidores&logo=github"
-        />
-    </a>
+  <a href="https://github.com/Satiro07?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas GitHub" 
+      src="https://img.shields.io/github/stars/Satiro07?color=6f00ff&style=for-the-badge&label=Estrelas&logo=github"
+    />
+  </a>
+  <a href="https://github.com/Satiro07?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://img.shields.io/github/followers/Satiro07?color=6f00ff&style=for-the-badge&label=Seguidores&logo=github"
+    />
+  </a>
 </p>
+
 
 ---
 
