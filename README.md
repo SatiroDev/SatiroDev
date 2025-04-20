@@ -30,6 +30,7 @@
 <h2 align="center" style="color: #6f00ff;">💻 Tecnologias</h2>
 <p align="center">
     <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </p>
 
 ---
