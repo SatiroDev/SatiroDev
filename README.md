@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=500&lines=+Olá%2C+meu+nome+é+José+Satiro;🔥+Desenvolvedor+Python;📚+Estudante+do+IFCE+Maranguape;⚡+Amante+da+Tecnologia" alt="Typing SVG" />
-</div>
+
 
 <h1 align="center" style="color: #6f00ff;">👨‍💻 José Satiro</h1>
 
