@@ -29,8 +29,12 @@
 
 <h2 align="center" style="color: #6f00ff;">💻 Tecnologias</h2>
 <p align="center">
-    <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img src="https://img.shields.io/badge/Python-6f00ff?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python Badge" />
+
+  <img src="https://img.shields.io/badge/PostgreSQL-6f00ff?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
+
+
+
 </p>
 
 ---
