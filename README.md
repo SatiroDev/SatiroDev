@@ -94,5 +94,7 @@
     <img src="https://img.shields.io/badge/Instagram-6f00ff?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-![snake gif](https://github.com/SatiroDev/SatiroDev/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/SatiroDev/SatiroDev/raw/output/dist/github-contribution-grid-snake-dark.svg)
+
 
