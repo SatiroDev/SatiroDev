@@ -8,18 +8,18 @@
 
 
 <p align="center">
-  <a href="https://github.com/Satiro07?tab=repositories&sort=stargazers">
+  <a href="https://github.com/SatiroDev?tab=repositories&sort=stargazers">
     <img 
       alt="Total de estrelas" 
       title="Total de estrelas GitHub" 
-      src="https://img.shields.io/github/stars/Satiro07?color=6f00ff&style=for-the-badge&label=Estrelas&logo=github"
+      src="https://img.shields.io/github/stars/SatiroDev?color=6f00ff&style=for-the-badge&label=Estrelas&logo=github"
     />
   </a>
-  <a href="https://github.com/Satiro07?tab=followers">
+  <a href="https://github.com/SatiroDev?tab=followers">
     <img 
       alt="Seguidores" 
       title="Me siga no GitHub" 
-      src="https://img.shields.io/github/followers/Satiro07?color=6f00ff&style=for-the-badge&label=Seguidores&logo=github"
+      src="https://img.shields.io/github/followers/SatiroDev?color=6f00ff&style=for-the-badge&label=Seguidores&logo=github"
     />
   </a>
 </p>
@@ -54,7 +54,7 @@
     <img 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=Satiro07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&bg_color=000000&title_color=6f00ff&text_color=ffffff&icon_color=6f00ff&border_radius=10" 
+        src="https://github-readme-stats.vercel.app/api?username=SatiroDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&bg_color=000000&title_color=6f00ff&text_color=ffffff&icon_color=6f00ff&border_radius=10" 
     />
 </p>
 
@@ -62,7 +62,7 @@
     <img 
         alt="Linguagens"
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satiro07&theme=tokyonight&layout=compact&langs_count=9&bg_color=000000&title_color=6f00ff&text_color=ffffff&border_radius=10&custom_title=Linguagens"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatiroDev&theme=tokyonight&layout=compact&langs_count=9&bg_color=000000&title_color=6f00ff&text_color=ffffff&border_radius=10&custom_title=Linguagens"
     />
 </p>
 
@@ -70,7 +70,7 @@
     <img 
         alt="GitHub Streak" 
         height="200" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Satiro07&theme=black-ice&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=6f00ff&currStreakLabel=6f00ff&border_radius=10" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=SatiroDev&theme=black-ice&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=6f00ff&currStreakLabel=6f00ff&border_radius=10" 
     />
 </p>
 
@@ -79,7 +79,7 @@
 
 <h2 align="center" style="color: #6f00ff;">🏆 Troféus</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Satiro07&theme=radical&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SatiroDev&theme=radical&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" />
 </p>
 
 ---
