@@ -82,3 +82,16 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Satiro07&theme=radical&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" />
 </p>
 
+---
+
+<h2 align="center" style="color: #6f00ff;">💬 Contato</h2>
+
+<p align="center">
+  <a href="mailto:satirojose492@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-6f00ff?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://instagram.com/j.satiropde7_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-6f00ff?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
