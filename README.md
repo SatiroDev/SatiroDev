@@ -79,8 +79,9 @@
 
 <h2 align="center" style="color: #6f00ff;">🏆 Troféus</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=SatiroDev&theme=radical&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SatiroDev&theme=tokyonight&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" />
 </p>
+
 
 ---
 
