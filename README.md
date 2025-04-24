@@ -33,9 +33,9 @@
 
   <img src="https://img.shields.io/badge/PostgreSQL-6f00ff?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
 
-
-
+  <img src="https://img.shields.io/badge/JavaScript-6f00ff?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge" />
 </p>
+
 
 ---
 
