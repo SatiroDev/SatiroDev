@@ -96,6 +96,6 @@
   </a>
 </p>
 
-![snake gif](https://github.com/SatiroDev/SatiroDev/raw/output/dist/github-contribution-grid-snake-dark.svg)
+![snake gif](dist/github-contribution-grid-snake-dark.svg)
 
 
