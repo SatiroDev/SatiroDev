@@ -103,6 +103,6 @@
   </a>
 </p>
 
-![snake gif](dist/github-contribution-grid-snake-dark.svg)
 
+![snake gif](dist/github-contribution-grid-snake.svg)
 
