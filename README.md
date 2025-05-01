@@ -27,6 +27,8 @@
 
 ---
 
+
+
 <h2 align="center" style="color: #6f00ff;">💻 Tecnologias</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-6f00ff?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python Badge" />
@@ -34,7 +36,12 @@
   <img src="https://img.shields.io/badge/PostgreSQL-6f00ff?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
 
   <img src="https://img.shields.io/badge/JavaScript-6f00ff?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge" />
+
+  <img src="https://img.shields.io/badge/HTML5-6f00ff?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML Badge" />
+
+  <img src="https://img.shields.io/badge/CSS3-6f00ff?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS Badge" />
 </p>
+
 
 
 ---
