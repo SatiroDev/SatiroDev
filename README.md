@@ -104,5 +104,5 @@
 </p>
 
 
-![snake gif](dist/github-contribution-grid-snake.svg)
+![snake gif](dist/github-contribution-grid-snake-dark.svg)
 
