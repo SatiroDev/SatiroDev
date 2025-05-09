@@ -1,5 +1,4 @@
 
-
 <h1 align="center" style="color: #6f00ff;">👨‍💻 José Satiro</h1>
 
 <p align="center">
