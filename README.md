@@ -4,7 +4,6 @@
   Olá, meu nome é <strong>José Satiro de Lima</strong>, tenho 17 anos e sou natural do Ceará. Atualmente, estou cursando o ensino médio no <strong>Instituto Federal de Maranguape</strong>, onde faço o curso técnico em informática.
 </p>
 
-
 <p align="center">
   <a href="https://github.com/SatiroDev?tab=repositories&sort=stargazers">
     <img 
