@@ -24,7 +24,6 @@
 
 ---
 
-
 <h2 align="center" style="color: #6f00ff;">💻 Tecnologias</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-6f00ff?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python Badge" />
