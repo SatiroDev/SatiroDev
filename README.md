@@ -21,7 +21,6 @@
   </a>
 </p>
 
-
 ---
 
 <h2 align="center" style="color: #6f00ff;">💻 Tecnologias</h2>
