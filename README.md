@@ -37,7 +37,6 @@
 </p>
 
 
-
 ---
 
 <h2 align="center" style="color: #6f00ff;">📚 Bibliotecas que uso ou estou aprendendo</h2>
