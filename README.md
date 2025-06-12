@@ -46,7 +46,6 @@
 
 ---
 
-
 <h2 align="center" style="color: #6f00ff;">📊 Estatísticas</h2>
 <p align="center">
   <img 
