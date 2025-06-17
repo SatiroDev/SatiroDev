@@ -43,7 +43,6 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
 </div>
 
-
 ---
 
 <h2 align="center" style="color: #6f00ff;">📊 Estatísticas</h2>
