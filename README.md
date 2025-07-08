@@ -1,3 +1,7 @@
+
+
+
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=header"/>
 </div>
@@ -30,16 +34,19 @@
 <div align="center" style="line-height: 2.5;">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
   <img width="12" />
-  
+
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
-  
+
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   <img width="12" />
-  
+
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="12" />
-  
+
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
   <img width="12" />
 
