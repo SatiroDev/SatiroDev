@@ -1,3 +1,6 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=header"/>
+</div>
 <h1 align="center" style="color: #6f00ff;">👨‍💻 José Satiro</h1>
 
 <p align="center">
@@ -91,3 +94,7 @@
     <img src="https://img.shields.io/badge/Instagram-6f00ff?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=footer"/>
+</div>
