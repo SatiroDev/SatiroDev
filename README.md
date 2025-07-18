@@ -55,7 +55,6 @@
 
 ---
 
-
 > ## 🚀 Tecnologias na Prática
 >
 > Tecnologias que venho praticando com projetos reais:
