@@ -54,34 +54,6 @@
 
 ---
 
-> ## 🚀 Tecnologias na Prática
->
-> Tecnologias que venho praticando com projetos reais:
->
-> 🟣 Node.js, Express.js, MySQL, JWT, Bcrypt
->  
-> <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,jwt,bcrypt" />
-> 
->
-> 📚 **API de Cadastro de Livros**  
-> *CRUD com Node.js, Express e MySQL.*  
-> [🔗 Ver repositório](https://github.com/SatiroDev/dev-backend-jornada/tree/main/semana2/dia2_desafio)
->
-> 🔐 **API de Autenticação com JWT**  
-> *Login com criptografia de senha (bcrypt) e autenticação via JWT.*  
-> [🔗 Ver repositório](https://github.com/SatiroDev/dev-backend-jornada/tree/main/semana2/dia4_desafio)
->
-> ---
-> ## 💡 Saiba mais
->
-> Estou documentando minha jornada com Node.js em um repositório dedicado:
->
-> 📁 **Dev Backend Jornada**  
-> Repositório com desafios, códigos, anotações e aprendizado diário.
->
-> [🔗 Acesse aqui](https://github.com/SatiroDev/dev-backend-jornada)
----
-
 <h2 align="center" style="color: #6f00ff;">📊 Estatísticas</h2>
 <p align="center">
   <img 
