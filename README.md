@@ -9,16 +9,16 @@ Atualmente, estou cursando o ensino médio no **Instituto Federal de Maranguape*
 
 ## 💻 Tecnologias e Ferramentas
 
-### 🔹 Backend
+### 🟣 Backend
 <img src="https://skillicons.dev/icons?i=py,java,nodejs" height="40" />
 
-### 🔹 Frontend / Web
-<img src="https://skillicons.dev/icons?i=html,css,postman" height="40" />
+### 🟣 Frontend / Web
+<img src="https://skillicons.dev/icons?i=css,html,postman" height="40" />
 
-### 🔹 Banco de Dados
+### 🟣 Banco de Dados
 <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" />
 
-### 🔹 IDEs
+### 🟣 IDEs
 <img src="https://skillicons.dev/icons?i=vscode,eclipse" height="40" />
 
 ---
