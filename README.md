@@ -35,7 +35,13 @@ Atualmente, estou cursando o ensino médio no **Instituto Federal de Maranguape*
 
 ## 🏆 Troféus
 
-![Troféus](https://github-profile-trophy.vercel.app/?username=SatiroDev&theme=tokyonight&no-bg=true&row=1&column=6)
+![Troféus](https://github-profile-trophy.screw-hand.vercel.app/?username=SatiroDev&theme=tokyonight&no-bg=true&row=1&column=6)
+
+
+
+
+
+
 
 ---
 
