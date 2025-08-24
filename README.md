@@ -33,11 +33,14 @@ Atualmente, estou cursando o ensino médio no **Instituto Federal de Maranguape*
   
   ## 📊 Estatísticas
 
-
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SatiroDev&show_icons=true&theme=radical&bg_color=000000&title_color=6f00ff&text_color=ffffff&icon_color=6f00ff&border_radius=10"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatiroDev&theme=tokyonight&layout=compact&langs_count=9&bg_color=000000&title_color=6f00ff&text_color=ffffff&border_radius=10&custom_title=Linguagens"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=SatiroDev&theme=black-ice&hide_border=false&fire=FF4500&ring=6f00ff&currStreakLabel=6f00ff&border_radius=10"/>
+  <img width="275px" src="https://github-readme-stats.vercel.app/api?username=SatiroDev&show_icons=true&theme=radical&bg_color=000000&title_color=6f00ff&text_color=ffffff&icon_color=6f00ff&border_radius=10"/>
+  <img width="275x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatiroDev&theme=tokyonight&layout=compact&langs_count=9&bg_color=000000&title_color=6f00ff&text_color=ffffff&border_radius=10&custom_title=Linguagens"/>
+  <br/>
+  <img width="550px" src="https://github-readme-streak-stats.herokuapp.com/?user=SatiroDev&theme=black-ice&hide_border=false&fire=FF4500&ring=6f00ff&currStreakLabel=6f00ff&border_radius=10"/>
 </div>
+
+
+
 
 ---
 
