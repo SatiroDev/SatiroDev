@@ -6,7 +6,6 @@
   Olá, meu nome é <strong>José Satiro de Lima</strong>, tenho 17 anos e sou natural do Ceará.<br>
   Atualmente, estou cursando o ensino médio no <strong>Instituto Federal de Maranguape</strong>, curso técnico em informática.
 </div>
-
 ---
 
 <div align="center">
