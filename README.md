@@ -53,7 +53,6 @@
   
   ## 🏆 Troféus
 
-
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=SatiroDev&theme=tokyonight&no-bg=true&row=2&column=3" alt="Troféus"/>
 </div>
 
