@@ -43,7 +43,6 @@
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatiroDev&custom_title=Minha%20Atividade%20GitHub&theme=high-contrast&area=true&hide_border=false" width="600"/>
 
-
 </div>
 
 ---
