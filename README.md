@@ -36,7 +36,6 @@
   <img width="550px" src="https://github-readme-streak-stats.herokuapp.com/?user=SatiroDev&theme=black-ice&hide_border=false&fire=FF4500&ring=6f00ff&currStreakLabel=6f00ff&border_radius=10"/>
 </div>
 
-
 <div align="center">
   
   ## 📈 Meu gráfico de atividade
