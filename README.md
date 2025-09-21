@@ -62,6 +62,7 @@
   <a href="https://instagram.com/j.satiropde7_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-6f00ff?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  
 
 </div>
 
