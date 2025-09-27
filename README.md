@@ -31,6 +31,16 @@
 
   <img width="275px" src="https://github-readme-stats.vercel.app/api?username=SatiroDev&show_icons=true&theme=radical&bg_color=000000&title_color=6f00ff&text_color=ffffff&icon_color=6f00ff&border_radius=10"/>
   <img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatiroDev&theme=tokyonight&layout=compact&langs_count=9&bg_color=000000&title_color=6f00ff&text_color=ffffff&border_radius=10&custom_title=Linguagens"/>
+  <br>
+
+  <img 
+    alt="GitHub Streak" 
+    width="560px" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SatiroDev&theme=radical&hide_border=false&background=000000&fire=FF4500&ring=6f00ff&currStreakLabel=6f00ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=10" 
+  />
+
+
+
 </div>
 
 <div align="center">
