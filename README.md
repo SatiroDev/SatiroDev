@@ -9,7 +9,6 @@
 
 ---
 
-
 <div align="center">
 
 ## 💻 Tecnologias e Ferramentas
