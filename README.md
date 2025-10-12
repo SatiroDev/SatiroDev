@@ -39,19 +39,6 @@
     width="560px" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=SatiroDev&theme=radical&hide_border=false&background=000000&fire=FF4500&ring=6f00ff&currStreakLabel=6f00ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=10" 
   />
-
-
-
-</div>
-
-<div align="center">
-  
-  ## 📈 Meu gráfico de atividade
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatiroDev&custom_title=Minha%20Atividade%20GitHub&theme=high-contrast&area=true&hide_border=false" width="600"/>
-
-</div>
-
 ---
 
 <div align="center">
