@@ -58,9 +58,6 @@
   <a href="mailto:satirojose492@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-6f00ff?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
-  <a href="https://instagram.com/j.satiropde7_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-6f00ff?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
 
 </div>
 
