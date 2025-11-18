@@ -7,6 +7,7 @@
   Atualmente, estou cursando o ensino médio no <strong>Instituto Federal de Maranguape</strong>, curso técnico em informática.
 </div>
 
+
 ---
 
 <div align="center">
